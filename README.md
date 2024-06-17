@@ -2,7 +2,6 @@
 ### Olá! Eu sou o Marcio Vinicius 👋
 
 - 🖥️ Estudante de Ciências da Computação
-- 💬 Praticando JAVA
 
 ![Marcio GitHub stats](https://github-readme-stats.vercel.app/api?username=marciovpbarbosa&show_icons=true&theme=radical)
 
