@@ -2,14 +2,8 @@
 </h1>
 
 <p>
-💻 Estudante de Ciência da Computação, com foco no desenvolvimento de aplicações web,
-APIs REST e integração com bancos de dados relacionais e NoSQL.
-</p>
-
-<p>
-Buscando uma oportunidade de estágio para aplicar meus conhecimentos,
+💻 Estudante de Ciência da Computação buscando uma oportunidade de estágio para aplicar meus conhecimentos,
 contribuir com projetos reais e evoluir continuamente como desenvolvedor.
-</p>
 
 ---
 
