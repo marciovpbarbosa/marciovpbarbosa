@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻Olá! Eu sou o Marcio Vinicius | Desenvolvedor em formação</h1>
 
-<p align="center">
-  Estudante de Ciências da computação
+<p>
+  💻 Estudante de Ciências da computação
 </p>
 
 ---
