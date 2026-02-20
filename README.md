@@ -49,6 +49,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hiberna
   />
   <img 
     width="48%" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marciovpbarbosa&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marciovpbarbosa&layout=compact&theme=tokyonight&langs_count=6&hide=html,css"
   />
 </p>
