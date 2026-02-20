@@ -43,13 +43,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hiberna
 
 ### 📊 Estatísticas
 
-<table>
+<table border"0">
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marciovpbarbosa&theme=tokyonight" width="400">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marciovpbarbosa&theme=tokyonight" width="300">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marciovpbarbosa&theme=tokyonight" width="400">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marciovpbarbosa&theme=tokyonight" width="300">
     </td>
   </tr>
 </table>
