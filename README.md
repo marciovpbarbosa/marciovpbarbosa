@@ -3,6 +3,13 @@
 <p>
   💻 Estudante de Ciências da computação
 
+  ## ⚡ Stack & Atuação
+
+Backend → Java | Spring Boot | Node.js | Hibernate  
+Banco de Dados → MySQL | PostgreSQL | MongoDB  
+Frontend → HTML | CSS | JavaScript  
+Ferramentas → Git  
+Arquitetura → APIs REST | CRUD | Integração de sistemas
 
   Buscando uma oportunidade de estágio para aplicar meus conhecimentos, contribuir com projetos reais e evoluir como desenvolvedor
 </p>
