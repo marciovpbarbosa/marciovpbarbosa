@@ -1,7 +1,7 @@
 # 👨‍💻 Marcio Vinicius
 
 <p align="center">
-  <img src="img/video.gif" width="600">
+  <img src="video.gif" width="600">
 </p>
 
 **`Desenvolvedor Backend`**
