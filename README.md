@@ -9,11 +9,12 @@ contribuir com projetos reais e evoluir continuamente como desenvolvedor.
 
 ## ⚡ Stack & Atuação
 
+Frontend → HTML | CSS | JavaScript 
 Backend → Java | Spring Boot | Node.js | Hibernate  
-Banco de Dados → MySQL | PostgreSQL | MongoDB  
-Frontend → HTML | CSS | JavaScript  
+Banco de Dados → MySQL | PostgreSQL | MongoDB   
+Arquitetura → APIs REST | CRUD | Integração entre frontend e backend 
 Ferramentas → Git  
-Arquitetura → APIs REST | CRUD | Integração entre frontend e backend  
+ 
 
 ---
 
