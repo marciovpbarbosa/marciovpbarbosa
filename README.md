@@ -1,21 +1,25 @@
-<h1 align="center">👨‍💻Olá! Eu sou o Marcio Vinicius | Desenvolvedor em formação</h1>
+<h1 align="center">👨‍💻 Marcio Vinicius</h1>
+<h3 align="center">Desenvolvedor Full Stack em formação</h3>
 
 <p align="center">
-  <strong style="font-size: 20px;">
-    💻 Estudante de Ciência da Computação
-  </strong>
+💻 Estudante de Ciência da Computação, com foco no desenvolvimento de aplicações web,
+APIs REST e integração com bancos de dados relacionais e NoSQL.
 </p>
 
-<p>
+<p align="center">
+Buscando uma oportunidade de estágio para aplicar meus conhecimentos,
+contribuir com projetos reais e evoluir continuamente como desenvolvedor.
+</p>
+
+---
+
 ## ⚡ Stack & Atuação
-  Backend → Java | Spring Boot | Node.js | Hibernate  
-  Banco de Dados → MySQL | PostgreSQL | MongoDB  
-  Frontend → HTML | CSS | JavaScript  
-  Ferramentas → Git  
-  Arquitetura → APIs REST | CRUD | Integração de sistemas
 
-  Buscando uma oportunidade de estágio para aplicar meus conhecimentos, contribuir com projetos reais e evoluir como desenvolvedor
-</p>
+Backend → Java | Spring Boot | Node.js | Hibernate  
+Banco de Dados → MySQL | PostgreSQL | MongoDB  
+Frontend → HTML | CSS | JavaScript  
+Ferramentas → Git  
+Arquitetura → APIs REST | CRUD | Integração entre frontend e backend  
 
 ---
 
@@ -35,8 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px"/>
 </p>
 
-<br/><br/>
-
 ---
 
 ### 📊 Estatísticas
@@ -44,10 +46,4 @@
 <p align="center">
   <img 
     width="49%" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=marciovpbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
-  <img 
-    width="49%" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marciovpbarbosa&layout=compact&theme=tokyonight"
-  />
-</p>
+    src="https://github-read
