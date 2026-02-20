@@ -1,8 +1,12 @@
 <h1 align="center">👨‍💻Olá! Eu sou o Marcio Vinicius | Desenvolvedor em formação</h1>
 
-<p>
-  💻 Estudante de Ciências da computação
+<p align="center">
+  <strong style="font-size: 20px;">
+    💻 Estudante de Ciência da Computação
+  </strong>
+</p>
 
+<p>
 ## ⚡ Stack & Atuação
   Backend → Java | Spring Boot | Node.js | Hibernate  
   Banco de Dados → MySQL | PostgreSQL | MongoDB  
