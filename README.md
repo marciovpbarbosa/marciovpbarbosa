@@ -1,6 +1,10 @@
-👨‍💻 Marcio Vinicius | Desenvolvedor em formação
+<h1 align="center">👨‍💻 Marcio Vinicius</h1>
 
-Desenvolvedor focado em APIs REST, arquitetura backend e integração com bancos de dados relacionais e NoSQL.
+<h2 align="center">Desenvolvedor em formação</h2>
+
+<p align="center">
+  Desenvolvedor focado em APIs REST, arquitetura backend e integração com bancos de dados relacionais e NoSQL.
+</p>
 
 ---
 
