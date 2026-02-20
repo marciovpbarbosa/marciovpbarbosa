@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻Olá! Eu sou o Marcio Vinicius | Desenvolvedor em formação</h1>
 
 <p align="center">
-  Desenvolvedor focado em APIs REST, arquitetura backend e integração com bancos de dados relacionais e NoSQL.
+  Estudante de Ciências da computação
 </p>
 
 ---
