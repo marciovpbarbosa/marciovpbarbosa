@@ -1,12 +1,12 @@
 <h1 align="center">👨‍💻 Marcio Vinicius | Desenvolvedor em formação
 </h1>
 
-<p align="center">
+<p>
 💻 Estudante de Ciência da Computação, com foco no desenvolvimento de aplicações web,
 APIs REST e integração com bancos de dados relacionais e NoSQL.
 </p>
 
-<p align="center">
+<p>
 Buscando uma oportunidade de estágio para aplicar meus conhecimentos,
 contribuir com projetos reais e evoluir continuamente como desenvolvedor.
 </p>
