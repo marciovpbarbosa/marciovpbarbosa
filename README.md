@@ -43,12 +43,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hiberna
 ### 📊 Estatísticas
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=marciovpbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=marciovpbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=500"
     height="200"
   />
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marciovpbarbosa&layout=compact&theme=tokyonight&card_width=495" 
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marciovpbarbosa&layout=compact&theme=tokyonight&card_width=500"
     height="200"
   />
 </p>
