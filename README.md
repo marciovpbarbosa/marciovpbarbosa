@@ -1,6 +1,4 @@
-<h1 align="center">👨‍💻 Marcio Vinicius</h1>
-
-<h2 align="center">Desenvolvedor em formação</h2>
+<h1 align="center">👨‍💻Olá! Eu sou o Marcio Vinicius | Desenvolvedor em formação</h1>
 
 <p align="center">
   Desenvolvedor focado em APIs REST, arquitetura backend e integração com bancos de dados relacionais e NoSQL.
