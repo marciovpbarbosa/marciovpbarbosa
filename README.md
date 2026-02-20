@@ -4,7 +4,7 @@
   <img src="video.gif" width="100%">
 </p>
 
- **`Desenvolvedor Backend`**
+ <h2 align="center">💻 Desenvolvedor Backend </h2>
  
 Me chamo Marcio Vinicius, tenho 21 anos e sou natural de Fortaleza - Ceará.  
 Sou estudante de Ciência da Computação, com foco em desenvolvimento backend, atuando principalmente com Java, Node.js e bancos de dados relacionais.  
