@@ -44,11 +44,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hiberna
 
 <p align="center">
   <img 
-    width="50%" height="200px"
+    width="49%" 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=marciovpbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
   <img 
-    width="50%" height="200px"
+    width="49%" 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marciovpbarbosa&layout=compact&theme=tokyonight"
   />
 </p>
