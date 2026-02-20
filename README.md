@@ -1,9 +1,4 @@
 # 👨‍💻 Marcio Vinicius
-
-<p align="center">
-  <img src="video.gif" width="100%">
-</p>
-
  <h2 align="center">💻 Desenvolvedor Backend </h2>
  
 Me chamo Marcio Vinicius, tenho 21 anos e sou natural de Fortaleza - Ceará.  
