@@ -1,5 +1,5 @@
-<h1 align="center">👨‍💻 Marcio Vinicius</h1>
-<h3 align="center">Desenvolvedor Full Stack em formação</h3>
+<h1 align="center">👨‍💻 Marcio Vinicius | Desenvolvedor em formação
+</h1>
 
 <p align="center">
 💻 Estudante de Ciência da Computação, com foco no desenvolvimento de aplicações web,
