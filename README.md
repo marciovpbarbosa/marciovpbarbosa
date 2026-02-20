@@ -41,7 +41,18 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hiberna
 
 ### 📊 Estatísticas
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+### 📊 Estatísticas
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marciovpbarbosa&theme=tokyonight" width="400">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marciovpbarbosa&theme=tokyonight" width="400">
+    </td>
+  </tr>
+</table>
 
   <img 
     width="400"
