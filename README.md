@@ -43,6 +43,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hiberna
 ### 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marciovpbarbosa&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciovpbarbosa&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marciovpbarbosa&theme=tokyonight" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=marciovpbarbosa&theme=tokyonight" width="48%">
 </p>
