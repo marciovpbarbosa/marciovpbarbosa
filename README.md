@@ -7,8 +7,9 @@
  <h2 align="center">💻 Desenvolvedor Backend </h2>
  
 Me chamo Marcio Vinicius, tenho 21 anos e sou natural de Fortaleza - Ceará.  
-Sou estudante de Ciência da Computação, com foco em desenvolvimento backend, atuando principalmente com Java, Node.js e bancos de dados relacionais.  
-Tenho interesse em APIs REST, arquitetura de software e boas práticas de desenvolvimento.  
+Sou estudante de Ciência da Computação, com foco em desenvolvimento backend, atuando principalmente com Java, Spring Boot e Node.js, além de bancos de dados como MySQL, PostgreSQL e MongoDB.  
+Possuo experiência com JPA/Hibernate, construção de APIs REST e integração entre backend e frontend utilizando HTML, CSS e JavaScript.  
+Tenho interesse em arquitetura de software, boas práticas de desenvolvimento e evolução contínua na área.  
 Compartilho minha evolução e projetos no LinkedIn: **[Marcio Vinicius](https://www.linkedin.com/in/marcio-vinicius-ba2a97318/)**.
 
 ---
