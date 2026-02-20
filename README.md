@@ -44,5 +44,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hiberna
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marciovpbarbosa&theme=tokyonight" width="48%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=marciovpbarbosa&theme=tokyonight" width="48%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marciovpbarbosa&theme=tokyonight" width="48%">
 </p>
