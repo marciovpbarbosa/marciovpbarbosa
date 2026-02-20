@@ -53,15 +53,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hiberna
     </td>
   </tr>
 </table>
-
-  <img 
-    width="400"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marciovpbarbosa&theme=tokyonight"
-  />
-
-  <img 
-    width="400"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marciovpbarbosa&theme=tokyonight"
-  />
-
-</div>
