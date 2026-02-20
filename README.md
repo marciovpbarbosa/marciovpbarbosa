@@ -43,19 +43,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hiberna
 ### 📊 Estatísticas
 
 <p align="center">
-  <div style="display: inline-block; width:48%; text-align:center;">
-    <h3>Marcio Vinicius</h3>
-    <img 
-      width="100%" 
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=marciovpbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    />
-  </div>
-
-  <div style="display: inline-block; width:48%; text-align:center;">
-    <h3>Tecnologias</h3>
-    <img 
-      width="100%" 
-      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marciovpbarbosa&layout=compact&theme=tokyonight&count_private=true"
-    />
-  </div>
+  <img 
+    width="49%" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=marciovpbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+  />
+  <img 
+    width="49%" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marciovpbarbosa&layout=compact&theme=tokyonight"
+  />
 </p>
