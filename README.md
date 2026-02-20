@@ -44,4 +44,6 @@ Arquitetura → APIs REST | CRUD | Integração entre frontend e backend
 ### 📊 Estatísticas
 
 <p align="center"> 
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marciovpbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marciovpbarbosa&layout=compact&theme=tokyonight" /> </p>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marciovpbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> 
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marciovpbarbosa&layout=compact&theme=tokyonight" /> 
+</p>
