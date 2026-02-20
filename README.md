@@ -2,6 +2,9 @@
 
 <p>
   💻 Estudante de Ciências da computação
+
+
+  Buscando uma oportunidade de estágio para aplicar meus conhecimentos, contribuir com projetos reais e evoluir como desenvolvedor
 </p>
 
 ---
