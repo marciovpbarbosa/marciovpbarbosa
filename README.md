@@ -14,7 +14,6 @@ contribuir com projetos reais e evoluir continuamente como desenvolvedor.
 • Banco de Dados → MySQL | PostgreSQL | MongoDB   
 • Arquitetura → APIs REST | CRUD | Integração entre frontend e backend 
 • Ferramentas → Git  
- 
 
 ---
 
