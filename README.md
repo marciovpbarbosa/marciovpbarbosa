@@ -38,9 +38,7 @@ contribuir com projetos reais e evoluir continuamente como desenvolvedor.
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
-
 <p align="center"> 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marciovpbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciovpbarbosa&layout=compact&theme=tokyonight" /> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=marciovpbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&token=SEU_TOKEN_AQUI" /> 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciovpbarbosa&layout=compact&theme=tokyonight&token=SEU_TOKEN_AQUI" /> 
 </p>
